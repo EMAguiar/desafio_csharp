@@ -1,0 +1,4 @@
+Necessário:
+- Ter Newtonsoft para executar o código
+- Executar o SQLQuery5 e SQLQuery7 para criar o Banco e a Tabela
+- Alterar configurações de conexão do banco no arquivo DesafioC.ini

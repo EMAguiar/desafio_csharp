@@ -1,0 +1,14 @@
+18/01/2021 05:01:40: LOG
+18/01/2021 05:01:43: É preciso baixar os dados primeiro
+18/01/2021 05:01:45: WEB API conectado com sucesso!
+18/01/2021 05:01:45: JSON Carregado.
+18/01/2021 05:01:54: Conexão com  banco aberta.
+18/01/2021 05:01:55: Salvo no banco com sucesso!
+18/01/2021 05:01:55: Conexão com banco encerrada.
+18/01/2021 05:04:31: LOG
+18/01/2021 05:04:33: É preciso baixar os dados primeiro
+18/01/2021 05:04:35: WEB API conectado com sucesso!
+18/01/2021 05:04:36: JSON Carregado.
+18/01/2021 05:04:37: Conexão com  banco aberta.
+18/01/2021 05:04:38: Salvo no banco com sucesso!
+18/01/2021 05:04:38: Conexão com banco encerrada.
